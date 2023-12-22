@@ -21,10 +21,15 @@ You can follow these general steps. Please note that the specific instructions m
   - Download VMware: Visit the official VMware website to download the latest version of VMware Workstation or VMware Player.
 
   ![Screenshot (2)](https://github.com/Agnesh-K/VMware/assets/154126091/766e795d-cace-4f64-99aa-e0adcda15430)
+  
   ![Screenshot (4)](https://github.com/Agnesh-K/VMware/assets/154126091/a017e730-8daf-4c60-abbb-272e37df4ebb)
+  
   ![Screenshot (5)](https://github.com/Agnesh-K/VMware/assets/154126091/adaa0c52-395d-4d71-a955-b5a8a64e1a96)
+  
   ![Screenshot (6)](https://github.com/Agnesh-K/VMware/assets/154126091/e9c7ffc9-5e85-4da3-b238-710478295cbf)
+  
   ![Screenshot (7)](https://github.com/Agnesh-K/VMware/assets/154126091/36aa5f50-1336-441e-8d5d-6f0d13d8b38d)
+  
   ![Screenshot (8)](https://github.com/Agnesh-K/VMware/assets/154126091/b7b7c6ed-88ba-4998-8302-f3874af9d420)
 
   - Installation Steps:
@@ -38,6 +43,7 @@ You can follow these general steps. Please note that the specific instructions m
     - Click "Finish" to complete the installation.
   
     ![Screenshot (9)](https://github.com/Agnesh-K/VMware/assets/154126091/f90a9a1c-2379-424b-a3d5-0c99460d89fc)
+    
     ![Screenshot (10)](https://github.com/Agnesh-K/VMware/assets/154126091/c9984971-6852-4b3f-99ea-124d2154337c)
 
     - Now, you should have VMware installed on your PC, and you can start creating and managing virtual machines.
